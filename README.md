@@ -1,5 +1,7 @@
 # A-Lightweight-Skin-Cancer-Detection-Model-Based-on-Convolutional-Neural-Network
 
+构建了一个轻量化的基于CNN和SqueezeNet的模型，对于8分类的皮肤癌图像分类任务，用1/4的参数量，达到了97.8%的测试集准确率。  
+
 项目成员：Yizhou Li, Hongxi Mao, Zhiran Wang
 
 · dataLoading.py装载数据，得到loading_datas.npy  
